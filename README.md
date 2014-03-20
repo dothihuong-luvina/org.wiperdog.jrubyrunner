@@ -21,8 +21,7 @@ Usage :
 		//Run script with passing input & gem paths
 		jrService.execute(scriptPath,input,libpath)
    
-  - Watching ruby script folder: 
-	 The watcher will be notify and run the script from watching folder  if new script added or modified
+  - Watching ruby script folder:  The watcher will be notify and run the script from watching folder  if new script added or modified
     
 		JrubyRunner jrService ;	
 		
